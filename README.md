@@ -9,3 +9,5 @@ Must  be No_Std
 Musn't contain any slur words
 
 
+link to crates.io 
+https://crates.io/crates/bmi160-esp32-minimal
